@@ -62,6 +62,6 @@ A sentence or two about a moment throughout Code Kentucky where you had an aha m
 
 5) Push your changes to GitHub
 
-> After you've written your file, commit it and prepare to push it to github. With this newly created branch, your git will probably give you an error when you try to push. This is git telling you that it needs remote tracking information for your newly created branch. 
+> After you've written your file, commit it and prepare to push it to github. With this newly created branch, your git will probably give you an error when you try to push. This is git telling you that it needs remote tracking information for your newly created branch. Git will return the command that is needed to set up remote tracking.
 
 > For the next steps of this exercise, we will be using the Github UI to learn about merging code and pull requests. 
