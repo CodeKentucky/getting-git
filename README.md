@@ -1,4 +1,4 @@
-# Intro 
+# Getting Git 
 
 Hello all, the purpose of this repository is to help us explore and get hands on experience using Git and GitHub. This repository is focused around markdown. The logic behind this is that taking code out of the equation, we can see how git is working with our files by using sentences and paragraphs. 
 
